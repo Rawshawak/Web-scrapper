@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 
 # Define the URL you want to scrape
-url = 'https://instagram.com'
+url = 'https://facebook.com'
 
 # Send an HTTP GET request to the URL
 response = requests.get(url)
